@@ -1,6 +1,6 @@
 # Authentication System
 
-**Authentication System** is a robust and secure web application designed for managing user accounts. It provides features like user account creation, secure login/logout functionality, password reset workflows, Two-Factor Authentication (2FA), session management, and device management. This system uses modern technologies like **React JS**, **Tailwind CSS**, **Express.js**, **MongoDB**, and **JSON Web Tokens (JWT)** for secure authentication and authorization processes.
+**Authentication System** is a robust and secure web application designed for managing user accounts. It provides features like user account creation, secure login/logout functionality, password reset workflows, Two-Factor Authentication (2FA), and device management. This system uses modern technologies like **React JS**, **Tailwind CSS**, **Express.js**, **MongoDB**, and **JSON Web Tokens (JWT)** for secure authentication and authorization processes.
 
 ---
 
